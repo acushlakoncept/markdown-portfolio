@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a Full-stack Developer, and my stacks are **Ruby on Rails** for *Backend*, __React & Redux__ for _Frontend_.
